@@ -1,7 +1,7 @@
 import './bootstrap';
 import '../css/app.css';
 import { createApp } from 'vue';
-import router from './Router';
+
 
 // Importa tu página principal
 import Welcome from './Pages/Welcome.vue';
