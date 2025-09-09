@@ -1,6 +1,6 @@
 <!--Header-->
 <script setup>
-import Logo from '../Assets/logoOvih.png'
+import Logo from '../../Assets/logoOvih.png'
 
 </script>
 <template>
